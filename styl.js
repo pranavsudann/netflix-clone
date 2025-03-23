@@ -1,6 +1,4 @@
-// script.js
 
-// Carousel Functionality for Movie Categories
 const categoryLists = document.querySelectorAll('.category-list');
 
 categoryLists.forEach((categoryList) => {
